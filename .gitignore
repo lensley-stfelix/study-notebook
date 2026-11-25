@@ -1,0 +1,14 @@
+notebook-data/
+study-exports/
+.study-browser/
+.trash/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.mp4
+*.webm
+*.mov
+*.m4v
+*.ogv
